@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'gt_super';
+    src: url('../fonts/GT_super_display/gt-super-display-super-trial-webfont.eot');
+    src: url('../fonts/GT_super_display/gt-super-display-super-trial-webfont.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GT_super_display/gt-super-display-super-trial-webfont.woff2') format('woff2'),
+        url('../fonts/GT_super_display/gt-super-display-super-trial-webfont.woff') format('woff'),
+        url('../fonts/GT_super_display/gt-super-display-super-trial-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
